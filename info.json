@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4e7d6793751616aa0b5723732f4986a80ff659b9",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2020-05-13 14:44:01",
+    "files": 1,
+    "merge": false,
+    "message": "Add opencontext URL to Description"
+  },
+  "remote": "https://github.com/ropensci/opencontext",
+  "pkg": "opencontext"
+}
